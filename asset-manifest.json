@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/solana-transfer-app/static/css/main.ccb843f3.css",
+    "main.js": "/solana-transfer-app/static/js/main.572b51a2.js",
+    "static/js/648.e3dbe31f.chunk.js": "/solana-transfer-app/static/js/648.e3dbe31f.chunk.js",
+    "static/js/227.b30f86ca.chunk.js": "/solana-transfer-app/static/js/227.b30f86ca.chunk.js",
+    "static/js/961.1b525998.chunk.js": "/solana-transfer-app/static/js/961.1b525998.chunk.js",
+    "static/js/258.c3b26073.chunk.js": "/solana-transfer-app/static/js/258.c3b26073.chunk.js",
+    "static/js/453.0e35acc7.chunk.js": "/solana-transfer-app/static/js/453.0e35acc7.chunk.js",
+    "static/js/500.22ac839b.chunk.js": "/solana-transfer-app/static/js/500.22ac839b.chunk.js",
+    "static/js/503.00eb6dad.chunk.js": "/solana-transfer-app/static/js/503.00eb6dad.chunk.js",
+    "index.html": "/solana-transfer-app/index.html",
+    "main.ccb843f3.css.map": "/solana-transfer-app/static/css/main.ccb843f3.css.map",
+    "main.572b51a2.js.map": "/solana-transfer-app/static/js/main.572b51a2.js.map",
+    "648.e3dbe31f.chunk.js.map": "/solana-transfer-app/static/js/648.e3dbe31f.chunk.js.map",
+    "227.b30f86ca.chunk.js.map": "/solana-transfer-app/static/js/227.b30f86ca.chunk.js.map",
+    "258.c3b26073.chunk.js.map": "/solana-transfer-app/static/js/258.c3b26073.chunk.js.map",
+    "453.0e35acc7.chunk.js.map": "/solana-transfer-app/static/js/453.0e35acc7.chunk.js.map",
+    "500.22ac839b.chunk.js.map": "/solana-transfer-app/static/js/500.22ac839b.chunk.js.map",
+    "503.00eb6dad.chunk.js.map": "/solana-transfer-app/static/js/503.00eb6dad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb843f3.css",
+    "static/js/main.572b51a2.js"
+  ]
+}
